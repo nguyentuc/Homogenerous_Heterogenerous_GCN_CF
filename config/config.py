@@ -1,0 +1,1 @@
+DATA_ROOT_PATH='/content/drive/My Drive/Colab_GITE/GCN/datasets/'

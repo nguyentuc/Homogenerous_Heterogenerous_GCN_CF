@@ -2,15 +2,10 @@ import heapq
 import logging
 import math
 import os
-
-import h5py
 import numpy as np
 import progressbar
 import tensorflow as tf
 from terminaltables import AsciiTable
-
-import sys
-# sys.path.append('code/jounal_ite')
 from GCN.config import config
 from GCN.data_preparation import data_utils
 from GCN.training.G_NCF import model_graph

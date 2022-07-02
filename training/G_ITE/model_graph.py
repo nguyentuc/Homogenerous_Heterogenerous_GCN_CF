@@ -1,6 +1,5 @@
 import tensorflow as tf
 from GCN.training.G_ITE import aggregators
-import numpy as np
 from numpy.random import seed
 seed(1)
 tf.random.set_random_seed(seed=2)

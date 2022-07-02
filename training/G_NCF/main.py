@@ -1,7 +1,4 @@
 import itertools
-
-import sys
-# sys.path.append('code/jounal_ite')
 from GCN.training.G_NCF import model_utils
 import argparse
 
